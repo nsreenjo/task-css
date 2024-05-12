@@ -1,0 +1,22 @@
+.red{
+    color: red;
+}
+.green{
+    color: green;
+    font-size: 2em;
+}
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.n {
+    color: rgb(21, 82, 82);
+}
+.e{
+    color: rgb(216, 225, 129);font-size: 0.1em;
+}
+.a{
+    color: rgb(216, 225, 129);font-size: 3rem;
+}

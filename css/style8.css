@@ -1,0 +1,16 @@
+
+.a{
+    color: #7a0909;
+    background-color: rgba(178, 197, 197, 0.47);
+}
+.b{
+color: rgb(204, 122, 16);
+background-image: url(../css/picc/Screenshot\ 2024-05-12\ 174143.png);
+}
+.c{
+color: black;
+background-image: url(../css/picc/Screenshot\ 2024-05-12\ 181253.png);
+}
+div {
+    background-color: aqua;
+}
